@@ -19,4 +19,6 @@ export interface IntercomConfig {
      * Customize vertical padding
      */
     vertical_padding?: number
+
+    language_override: string;
 }
